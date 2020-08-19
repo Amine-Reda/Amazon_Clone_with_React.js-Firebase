@@ -1,3 +1,7 @@
+### [Live Site](https://optimistic-mirzakhani-046289.netlify.app/)
+
+![AmazonClone](assets/AmazonClone.png)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
