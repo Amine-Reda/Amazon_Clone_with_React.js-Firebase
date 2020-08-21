@@ -1,3 +1,5 @@
+# Amazon Clone with React.js and Firebase
+
 ### [Live Site](https://optimistic-mirzakhani-046289.netlify.app/)
 
 ![AmazonClone](assets/AmazonClone.png)
